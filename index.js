@@ -5,7 +5,7 @@ function start() {
   const bot = mineflayer.createBot({
     host: 'RGALSmp.aternos.me',
     port: 52272,
-    username: 'AfkBot',
+    username: 'bonjour',
     version: false
   })
 
